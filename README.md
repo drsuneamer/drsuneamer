@@ -25,7 +25,7 @@ hobbies: ["Movies", "Reading", "Photo", "Travel", ...]
 
 
 ![drsuneamer's github stats](https://github-readme-stats.vercel.app/api?username=drsuneamer&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drsuneamer&layout=compact&theme=dracula)[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sunyeong0412)](https://solved.ac/sunyeong0412)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drsuneamer&layout=compact&theme=dracula)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunyeong0412)](https://solved.ac/sunyeong0412/)
 
 
 <!--
