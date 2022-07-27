@@ -1,4 +1,6 @@
 ### Hello there, it's drSUNeamer's github 😊
+<br>
+<img src="https://c.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif">
 
 ### 💬 I am ...
 ```yaml
