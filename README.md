@@ -6,7 +6,7 @@
 ```yaml
 name: Sunyeong Shin
 from: Seoul (Korea)
-education: ["Bachelor of Arts in English Literature", 
+education: ["Bachelor of Arts in English Linguistics", 
             "Bachelor of Arts in Culture, Tourism and Contents"]
 
 currently_on: ["SSAFY_Samsung Software Academy For Youth"]
