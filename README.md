@@ -12,7 +12,8 @@ education: ["Bachelor of Arts in English Linguistics",
 currently_on: ["SSAFY_Samsung Software Academy For Youth"]
 awards: ["SSAFY 1학기 관통 프로젝트 우수: TEMPLIX", 
          "SSAFY 2학기 공통 프로젝트 우수: BoBi",
-         "SSAFY 2학기 특화 프로젝트 우수: 멍!더랜드"]
+         "SSAFY 2학기 특화 프로젝트 우수: 멍!더랜드",
+         "SSAFY 2학기 자율 프로젝트 우수: MeetUp"]
 
 languages: ["Korean", "English", "Japanese"]
 hobbies: ["Movies", "Reading", "Photo", "Travel", ...]
