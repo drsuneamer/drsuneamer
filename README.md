@@ -14,10 +14,10 @@ education: [@KyungHee University:
                 "Bachelor of Arts in Culture, Tourism and Contents"]
 
 currently_on: ["SSAFY_Samsung Software Academy For Youth"]
-awards: ["SSAFY 1학기 관통 프로젝트 우수: TEMPLIX", 
-         "SSAFY 2학기 공통 프로젝트 우수: BoBi",
-         "SSAFY 2학기 특화 프로젝트 우수: 멍!더랜드",
-         "SSAFY 2학기 자율 프로젝트 우수: MeetUp"]
+awards: ["SSAFY 1학기 관통 프로젝트 수상 (2위): TEMPLIX", 
+         "SSAFY 2학기 공통 프로젝트 수상 (1위): BoBi",
+         "SSAFY 2학기 특화 프로젝트 수상 (3위): 멍!더랜드",
+         "SSAFY 2학기 자율 프로젝트 수상 (1위): MeetUp"]
 
 languages: ["Korean", "English", "Japanese"]
 hobbies: ["Movies", "Reading", "Photo", "Travel", ...]
