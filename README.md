@@ -3,7 +3,7 @@
 <br>
 <img src="https://c.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif">
 
-### 🚀 Come See My <a href="https://jealous-fisher-65f.notion.site/Portfolio-drsuneamer-d7309746b0f04788b5de725e9b3aa224">PORTFOLIO</a>
+### 🚀 Come See My <a href="https://jealous-fisher-65f.notion.site/Portfolio-drsuneamer-d7309746b0f04788b5de725e9b3aa224">PORTFOLIO</a> && <a href="https://drsuneamer.tistory.com">TECH BLOG</a>
 
 ### 💬 I am ...
 ```yaml
@@ -13,7 +13,7 @@ education: [@KyungHee University:
                 "Bachelor of Arts in English Linguistics", 
                 "Bachelor of Arts in Culture, Tourism and Contents"]
 
-currently_on: ["SSAFY_Samsung Software Academy For Youth"]
+activity: ["SSAFY_Samsung Software Academy For Youth"]
 awards: ["SSAFY 1학기 관통 프로젝트 수상 (2위): TEMPLIX", 
          "SSAFY 2학기 공통 프로젝트 수상 (1위): BoBi",
          "SSAFY 2학기 특화 프로젝트 수상 (3위): 멍!더랜드",
