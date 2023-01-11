@@ -41,8 +41,11 @@ hobbies: ["Movies", "Reading", "Photo", "Travel", ...]
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdrsuneamer&count_bg=%23151202&title_bg=%23555555&icon=&icon_color=%230A0A0A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunyeong0412)](https://solved.ac/sunyeong0412/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drsuneamer&layout=compact&theme=dracula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunyeong0412)](https://solved.ac/sunyeong0412/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drsuneamer&layout=compact&theme=great-gatsby)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=drsuneamer&show_icons=true&theme=great-gatsby)
 
 <!--
 **drsuneamer/drsuneamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
