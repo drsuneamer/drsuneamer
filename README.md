@@ -30,6 +30,9 @@ hobbies: ["Movies", "Reading", "Photo", "Travel", ...]
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ### 📫 Contact Me! at ...
+[e-mail] sunyeong0412@gmail.com
+<br>
+<br>
 <a href="https://drsuneamer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-004E81?style=for-the-badge&logo=tvtime&logoColor=white&link=https://drsuneamer.tistory.com/"></a>
 <a href="https://blog.naver.com/cactusity/"><img src="https://img.shields.io/badge/-Blog-83B81A?style=for-the-badge&logo=naver&logoColor=white&link=https://blog.naver.com/cactusity/"></a>
 <a href="https://www.instagram.com/drsuneamer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/drsuneamer/"></a>
