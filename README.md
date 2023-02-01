@@ -5,6 +5,13 @@
 
 ### 🚀 Come See My <a href="https://jealous-fisher-65f.notion.site/Portfolio-drsuneamer-d7309746b0f04788b5de725e9b3aa224">PORTFOLIO</a> && <a href="https://drsuneamer.tistory.com">TECH BLOG</a>
 
+### 😊 Hello, World!
+```yaml
+Hi, I'm sunyeong!
+just started programming in 2022
+now burning on FRENCH, JavaScript, Computer Science 👩🏻‍💻
+```
+
 ### 💬 I am ...
 ```yaml
 name: Sunyeong Shin
