@@ -3,7 +3,7 @@
 <br>
 <img src="https://c.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif">
 
-### 🚀 Come See My <a href="https://www.notion.so/drsuneamer/Portfolio-drsuneamer-a11d905574eb462ab1635c4df5427d35?pvs=4">PORTFOLIO</a> && <a href="https://drsuneamer.tistory.com">TECH BLOG</a>
+### 🚀 Come See My <a href="https://drsuneamer.notion.site/drsuneamer/Portfolio-drsuneamer-a11d905574eb462ab1635c4df5427d35">PORTFOLIO</a> && <a href="https://drsuneamer.tistory.com">TECH BLOG</a>
 
 ### 😊 Hello, World!
 ```yaml
