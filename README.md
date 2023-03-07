@@ -9,7 +9,7 @@
 ```yaml
 Hi, I'm sunyeong!
 just started programming in 2022
-now burning on FRENCH, JavaScript, Computer Science 👩🏻‍💻
+now burning on FRENCH, Java, Computer Science 👩🏻‍💻
 ```
 
 ### 💬 I am ...
@@ -19,8 +19,9 @@ from: Seoul (Korea)
 education: [@KyungHee University:
                 "Bachelor of Arts in English Linguistics", 
                 "Bachelor of Arts in Culture, Tourism and Contents"]
-
-activity: ["SSAFY_Samsung Software Academy For Youth 7기 수료", "KB IT 아카데미_IT's Your Life 진행중중]
+                
+ongoing: ["KB IT 아카데미_IT's Your Life 3기"]
+activity: ["SSAFY_Samsung Software Academy For Youth 7기 수료"]
 awards: ["SSAFY 1학기 관통 프로젝트 수상 (2위): TEMPLIX", 
          "SSAFY 2학기 공통 프로젝트 수상 (1위): BoBi",
          "SSAFY 2학기 특화 프로젝트 수상 (3위): 멍!더랜드",
