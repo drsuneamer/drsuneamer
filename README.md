@@ -6,11 +6,13 @@
 ### 🚀 Come See My <a href="https://drsuneamer.notion.site/drsuneamer/Portfolio-drsuneamer-a11d905574eb462ab1635c4df5427d35">PORTFOLIO</a> && <a href="https://drsuneamer.tistory.com">TECH BLOG</a>
 
 ### 😊 Hello, World!
-```yaml
-Hi, I'm sunyeong!
-just started programming in 2022
-now burning on FRENCH, Java, Computer Science 👩🏻‍💻
+```python
+"Hi, I'm sunyeong!"
+"just started programming in" 2022
+"now burning on" FRENCH, Java, Computer Science 👩🏻‍💻
 ```
+
+
 
 ### 💬 I am ...
 ```yaml
