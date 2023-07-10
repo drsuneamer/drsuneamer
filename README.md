@@ -23,7 +23,7 @@ education: [@KyungHee University:
                 "Bachelor of Arts in Culture, Tourism and Contents"]
                 
 activity: ["SSAFY_Samsung Software Academy For Youth 7기 수료",
-         "KB IT 아카데미_IT's Your Life 3기 수료"
+           "KB IT 아카데미_IT's Your Life 3기 수료"
           ]
 awards: ["SSAFY 1학기 관통 프로젝트 수상 (2위): TEMPLIX", 
          "SSAFY 2학기 공통 프로젝트 수상 (1위): BoBi",
