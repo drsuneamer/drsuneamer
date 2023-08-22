@@ -42,25 +42,27 @@ hobbies: ["Movies", "Reading", "Photo", "Travel", ...]
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
+<!--
 ### 📫 Contact Me! at ...
 [e-mail] sunyeong0412@gmail.com
 <br>
 <br>
 <a href="https://drsuneamer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-004E81?style=for-the-badge&logo=tvtime&logoColor=white&link=https://drsuneamer.tistory.com/"></a>
-<!--<a href="https://blog.naver.com/cactusity/"><img src="https://img.shields.io/badge/-Blog-83B81A?style=for-the-badge&logo=naver&logoColor=white&link=https://blog.naver.com/cactusity/"></a> -->
+<!--<a href="https://blog.naver.com/cactusity/"><img src="https://img.shields.io/badge/-Blog-83B81A?style=for-the-badge&logo=naver&logoColor=white&link=https://blog.naver.com/cactusity/"></a> 
 <a href="https://www.instagram.com/drsuneamer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/drsuneamer/"></a>
 <a href="https://www.instagram.com/hello_young12/"><img src="https://img.shields.io/badge/Instagram-CD5C5C?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hello_young12/"></a>
 <br>
 <br>
-<hr>
+<hr> 
+-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdrsuneamer&count_bg=%23151202&title_bg=%23555555&icon=&icon_color=%230A0A0A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunyeong0412)](https://solved.ac/sunyeong0412/)
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drsuneamer&layout=compact&theme=great-gatsby)
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=drsuneamer&show_icons=true&theme=great-gatsby)
 
 <!--
