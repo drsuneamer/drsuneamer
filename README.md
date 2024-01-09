@@ -9,7 +9,7 @@
 ```python
 "Hi, I'm sunyeong!"
 "just started programming in" 2022
-"now burning on" FRENCH, Java, Computer Science 👩🏻‍💻
+"now burning on" FRENCH, LINUX, Computer Science 👩🏻‍💻
 ```
 
 
